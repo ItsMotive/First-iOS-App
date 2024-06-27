@@ -16,6 +16,7 @@
 		D91552C42C1A34F500B0A9B2 /* MyFirstAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D91552C32C1A34F500B0A9B2 /* MyFirstAppTests.swift */; };
 		D91552CE2C1A34F500B0A9B2 /* MyFirstAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D91552CD2C1A34F500B0A9B2 /* MyFirstAppUITests.swift */; };
 		D91552D02C1A34F500B0A9B2 /* MyFirstAppUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D91552CF2C1A34F500B0A9B2 /* MyFirstAppUITestsLaunchTests.swift */; };
+		D9B28A622C1A6CF700333A15 /* TipCalculatorViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9B28A612C1A6CF700333A15 /* TipCalculatorViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		D91552C92C1A34F500B0A9B2 /* MyFirstAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MyFirstAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D91552CD2C1A34F500B0A9B2 /* MyFirstAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyFirstAppUITests.swift; sourceTree = "<group>"; };
 		D91552CF2C1A34F500B0A9B2 /* MyFirstAppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyFirstAppUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		D9B28A612C1A6CF700333A15 /* TipCalculatorViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TipCalculatorViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				D91552AC2C1A34EA00B0A9B2 /* AppDelegate.swift */,
 				D91552AE2C1A34EA00B0A9B2 /* SceneDelegate.swift */,
 				D91552B02C1A34EA00B0A9B2 /* ViewController.swift */,
+				D9B28A612C1A6CF700333A15 /* TipCalculatorViewController.swift */,
 				D91552B22C1A34EA00B0A9B2 /* Main.storyboard */,
 				D91552B52C1A34F400B0A9B2 /* Assets.xcassets */,
 				D91552B72C1A34F400B0A9B2 /* LaunchScreen.storyboard */,
@@ -260,6 +263,7 @@
 			files = (
 				D91552B12C1A34EA00B0A9B2 /* ViewController.swift in Sources */,
 				D91552AD2C1A34EA00B0A9B2 /* AppDelegate.swift in Sources */,
+				D9B28A622C1A6CF700333A15 /* TipCalculatorViewController.swift in Sources */,
 				D91552AF2C1A34EA00B0A9B2 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
